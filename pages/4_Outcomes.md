@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: pages
 title: "Job opportunities"
 permalink: /archive/
 hide: true
