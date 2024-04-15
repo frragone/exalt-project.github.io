@@ -1,6 +1,6 @@
 ---
 layout: categories
-title: Categories
+title: Team
 permalink: /categories/
 hide: true
 excluded: true
