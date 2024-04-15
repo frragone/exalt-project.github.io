@@ -1,12 +1,12 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: ""
+url: "https://exalt-project.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: EXALT                                            # site's title
 description: "EXtreme weather Attribution at mid- and high-Latitudes using advanced statistical Techniques"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+avatar: assets/img/icon_pdfs.png                         # Empty for no avatar in navbar
+favicon: assets/img/icon_pdfs.png                            # Icon displayed in the tab
 
 # Header and footer text
 header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
