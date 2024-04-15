@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Job opportunities"
-hide: true
+title: Outcomes
 excluded: true
 tags: [Page]
 ---
