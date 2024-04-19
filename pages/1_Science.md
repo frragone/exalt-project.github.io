@@ -33,3 +33,6 @@ dependence between their extremes (the tail dependence) into account.
 and to apply it to the most influential events in the mid-high latitudes**, namely **heatwaves and
 compound drought-heat events over Europe, floods in southern and northern Europe, and sea ice extent over
 the Antarctic**. 
+
+<img src="/assets/img/Compounds.jpg" height = "400px">
+*Climate change effects on compound effects. From [Zscheischler et al., 2020](https://www.nature.com/articles/s43017-020-0060-z).
