@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Job offers
-feature-img: "assets/img/search-map.jpeg"
+feature-img: "assets/img/pexels/search-map.jpeg"
 position: 4
 tags: [Page]
 ---
