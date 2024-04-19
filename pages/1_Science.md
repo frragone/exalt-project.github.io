@@ -29,3 +29,8 @@ processes, resulting in compound events. For instance, high summer temperatures 
 of precipitation may cause soil moisture deficit, potentially leading to an unusually persistent drought. Thus,
 a significant challenge is to model two or more random variables of interest simultaneously, taking the
 dependence between their extremes (the tail dependence) into account. 
+
+**The overall objective of EXALT is to introduce a novel comprehensive framework for extreme event attribution
+and to apply it to the most influential events in the mid-high latitudes**, namely **heatwaves and
+compound drought-heat events over Europe, floods in southern and northern Europe, and sea ice extent over
+the Antarctic**. 
