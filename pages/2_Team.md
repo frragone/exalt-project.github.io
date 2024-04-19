@@ -19,7 +19,7 @@ of Namur (NaXys, UNamur). Her main research field is extreme value theory, with 
 the application of techniques from statistical physics and dynamical systems theory to the study of
 climate problems.
 
-<img src="/assets/img/pics/FrancoisMassonnet.png" height = "200px">
+<img src="/assets/img/pics/FrancoisMassonnet.jpg" height = "200px">
 
 [**François Massonnet**](https://www.climate.be/u/fmasson) is F.R.S.-FNRS Research Associate and part-time lecturer the *Earth and Climate Centre* of the UCLouvain. His research interests focus on seasonal to interannual predictability and prediction of sea ice, the evaluation of climate models in polar regions, data assimilation and forecast verification.
 
