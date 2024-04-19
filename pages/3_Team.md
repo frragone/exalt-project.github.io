@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Team
-permalink: /categories/
 feature-img: "assets/img/pexels/book-glass.jpeg"
 position: 3
 tags: [Page]
