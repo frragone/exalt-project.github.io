@@ -2,6 +2,7 @@
 layout: page
 title: Team
 permalink: /categories/
+feature-img: "assets/img/pexels/book-glass.jpeg"
 tags: [Page]
 ---
 
