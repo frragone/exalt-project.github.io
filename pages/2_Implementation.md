@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Implementation
-subtitle: From the pexels folder
+feature-img: assets/img/pexels/gears.jpg
 excluded: true
 position: 2
 tags: [Page]
