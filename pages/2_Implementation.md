@@ -7,8 +7,18 @@ position: 2
 tags: [Page]
 ---
 
-This is a photo gallery made from the static files in the `assets/img/pexels` folder. 
-I wanted to automatically create a simple gallery from a folder without having to create a markdown page as you would for the portfolio.
+# Research program
 
+## WP1: Attribution of European floods
+The aim of WP1 is to propose **flexible and physically realistic non-stationary extreme-value models
+for attribution of heavy precipitation and floods over different regions of Europe**
 
-{% include gallery.html gallery_path=page.gallery_path %}
+## WP2: Attribution of European heatwaves and droughts
+WP2 focuses on the **attribution of European heatwaves and droughts using multivariate techniques
+that take into account spatio-temporal dependence and compounding mechanisms between
+high temperature and soil dryness.**
+
+## WP3: Attribution of low Antarctic sea ice
+The central scientific question of WP3 is: **Are recent extremely low Antarctic sea ice states caused
+by one driving factor alone being exceptional, or do they instead result from the combined effect
+of multiple factors being moderately extreme but not necessarily exceptional?**
