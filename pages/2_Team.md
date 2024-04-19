@@ -5,7 +5,7 @@ permalink: /categories/
 tags: [Page]
 ---
 
-<img src="/assets/img/pics/AnnaKiriliouk.jpg" height = "60%" width = "60%">
+<img src="/assets/img/pics/AnnaKiriliouk.jpg" height = "4cm">
 
 [**Anna Kiriliouk**](http://annakiriliouk.weebly.com/) (coordinator) ​is an assistant professor in Statistics at the Faculty of Economics, Social Sciences
 and Business Administration and the Department of Mathematics of the University
