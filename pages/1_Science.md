@@ -35,4 +35,4 @@ compound drought-heat events over Europe, floods in southern and northern Europe
 the Antarctic**. 
 
 <img src="/assets/img/Compounds.jpg" height = "400px">
-*Climate change effects on compound effects. From [Zscheischler et al., 2020](https://www.nature.com/articles/s43017-020-0060-z).
+*Climate change effects on compound effects. From [Zscheischler et al., 2020](https://www.nature.com/articles/s43017-020-0060-z).*
