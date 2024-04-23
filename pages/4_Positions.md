@@ -38,19 +38,17 @@ Anna Kiriliouk from UNamur.
 
 ## Position 1: attribution of European floods
 
-Main affiliation: UNamur
+*Main affiliation*: UNamur
 
-Secondary affiliation: UCLouvain
+*Secondary affiliation*: UCLouvain
 
-Keywords: Attribution, Extreme-value theory, Floods, Non-stationarity
+*Keywords*: Attribution, Extreme-value theory, Floods, Non-stationarity
 
 
 *Description of work*: The PhD candidate will investigate flexible and physically realistic non-stationary extreme-value models
 for attribution of heavy precipitation and floods over different regions of Europe. In particular, the
 candidate will identify physical covariates that take into account the regional response to climate change
-in both thermodynamical and dynamical properties.
-
-Different models with different covariates are expected to be selected for different regions of Europe.
+in both thermodynamical and dynamical properties. Different models with different covariates are expected to be selected for different regions of Europe.
 A first broad-scale differentiation will be made in terms of Central-Northern Europe versus Southern
 Europe and the Mediterranean area, justified by the expected response of the atmospheric circulation to
 climate change. After a general analysis, the candidate will zoom in on regions that recently experienced
@@ -59,15 +57,13 @@ arrive at an attribution statement.
 
 ## Position 2: attribution of European heatwaves
 
-Main affiliation: UCLouvain
+*Main affiliation*: UCLouvain
 
-Keywords: Attribution, Clustering, Extreme-value theory, Heatwaves, Tail dependence
+*Keywords*: Attribution, Clustering, Extreme-value theory, Heatwaves, Tail dependence
 
 *Description of work*: The PhD candidate will focus on the attribution of European heatwaves using multivariate techniques
 that take into account spatio-temporal dependence and compounding mechanisms between high
-temperature and soil dryness.
-
-In particular, the candidate will develop (bivariate) spatial extreme-value models for different classes
+temperature and soil dryness. In particular, the candidate will develop (bivariate) spatial extreme-value models for different classes
 of heatwave events in Europe, with the aim of better identifying typical regional heatwave patterns
 within Europe and analysing concurrent drought-heat events. Finally, the candidate will detect and
 attribute changes in the properties of heatwaves in response to increased CO2 emissions, provide robust
@@ -76,15 +72,13 @@ quantify the increase of the risk of heatwave events in future scenarios.
 
 ## Position 3: attribution of European droughts
 
-Main affiliation: UCLouvain
+*Main affiliation*: UCLouvain
 
-Keywords: Attribution, Droughts, Extreme-value theory, Non-stationarity, Rare event algorithm
+*Keywords*: Attribution, Droughts, Extreme-value theory, Non-stationarity, Rare event algorithm
 
 *Description of work*: The PhD candidate will focus on the attribution of European droughts using multivariate techniques
 that take into account spatio-temporal dependence and compounding mechanisms between high
-temperature and soil dryness.
-
-In particular, the candidate will analyse the multi-year temporal compounding aspect, the relation
+temperature and soil dryness. In particular, the candidate will analyse the multi-year temporal compounding aspect, the relation
 with surface temperature anomalies at seasonal and inter-annual scales, and the relation to the low
 frequency variability of the atmosphere. In addition, large datasets of extreme multi-year droughts will
 be generated with rare event algorithms applied to numerical climate models of different complexity.
@@ -95,16 +89,14 @@ for recent events.
 
 ## Position 4: attribution of low Antarctic sea ice
 
-Main affiliation: UCLouvain
+*Main affiliation*: UCLouvain
 
-Secondary affiliation: UNamur
+*Secondary affiliation*: UNamur
 
-Keywords: Attribution, Extreme-value theory, Non-stationariy, Sea ice extent, Tail dependence
+*Keywords*: Attribution, Extreme-value theory, Non-stationariy, Sea ice extent, Tail dependence
 
 *Description of work*: The PhD candidate will use multivariate techniques to obtain better insight in the nature of Antarctic
-extreme sea ice states and to arrive at a robust and precise attribution statement of recent record lows.
-
-Regional aspects are key to understand Antarctic sea ice dynamics. The Southern Ocean is comprised
+extreme sea ice states and to arrive at a robust and precise attribution statement of recent record lows. Regional aspects are key to understand Antarctic sea ice dynamics. The Southern Ocean is comprised
 of several sub-basins. The seasonal development of sea ice, as well as its inter-annual variability, are
 dictated by processes that are basin-specific. The PhD candidate will characterise the tail dependence
 between the sea ice extent in these five sub-basins and select appropriate multivariate extreme-value
@@ -126,7 +118,7 @@ work)
 * access to a high-performance scientific computing environment
 * opportunities to gather experience in teaching and consultancy
   
-The values underlying the staff policy at UCLouvain are described (here)[https://uclouvain.be/en/careers/politique-personnel.html].
+The values underlying the staff policy at UCLouvain are described [here](https://uclouvain.be/en/careers/politique-personnel.html).
 
 **Expected profile**: you are holding a master degree (120 ECTS) in statistics, mathematics, physics,
 climatology, earth sciences, engineering, or a similar domain. Your skills and interests include:
