@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Job offers
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/header/dream-job-application-location-job-preview.jpg"
 position: 4
 tags: [Page]
 ---
