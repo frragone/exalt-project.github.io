@@ -7,7 +7,7 @@ tags: [Page]
 ---
 
 
-We have **four PhD positions opened**. See [here](../assets/pdfs/ARCphd.pdf) for more information.
+We have **four PhD positions opened**. See [here](../assets/pdfs/ARCphd.pdf) for the PDF version.
 
 # Four PhD positions on the attribution of extreme climate events (posted 23 April 2024)
 ## General overview
@@ -39,12 +39,13 @@ Anna Kiriliouk from UNamur.
 ## Position 1: attribution of European floods
 
 Main affiliation: UNamur
+
 Secondary affiliation: UCLouvain
+
 Keywords: Attribution, Extreme-value theory, Floods, Non-stationarity
 
-*Description of work*:
 
-The PhD candidate will investigate flexible and physically realistic non-stationary extreme-value models
+*Description of work*: The PhD candidate will investigate flexible and physically realistic non-stationary extreme-value models
 for attribution of heavy precipitation and floods over different regions of Europe. In particular, the
 candidate will identify physical covariates that take into account the regional response to climate change
 in both thermodynamical and dynamical properties.
@@ -59,11 +60,10 @@ arrive at an attribution statement.
 ## Position 2: attribution of European heatwaves
 
 Main affiliation: UCLouvain
+
 Keywords: Attribution, Clustering, Extreme-value theory, Heatwaves, Tail dependence
 
-*Description of work*:
-
-The PhD candidate will focus on the attribution of European heatwaves using multivariate techniques
+*Description of work*: The PhD candidate will focus on the attribution of European heatwaves using multivariate techniques
 that take into account spatio-temporal dependence and compounding mechanisms between high
 temperature and soil dryness.
 
@@ -77,11 +77,10 @@ quantify the increase of the risk of heatwave events in future scenarios.
 ## Position 3: attribution of European droughts
 
 Main affiliation: UCLouvain
+
 Keywords: Attribution, Droughts, Extreme-value theory, Non-stationarity, Rare event algorithm
 
-*Description of work*:
-
-The PhD candidate will focus on the attribution of European droughts using multivariate techniques
+*Description of work*: The PhD candidate will focus on the attribution of European droughts using multivariate techniques
 that take into account spatio-temporal dependence and compounding mechanisms between high
 temperature and soil dryness.
 
@@ -97,12 +96,12 @@ for recent events.
 ## Position 4: attribution of low Antarctic sea ice
 
 Main affiliation: UCLouvain
+
 Secondary affiliation: UNamur
+
 Keywords: Attribution, Extreme-value theory, Non-stationariy, Sea ice extent, Tail dependence
 
-*Description of work*:
-
-The PhD candidate will use multivariate techniques to obtain better insight in the nature of Antarctic
+*Description of work*: The PhD candidate will use multivariate techniques to obtain better insight in the nature of Antarctic
 extreme sea ice states and to arrive at a robust and precise attribution statement of recent record lows.
 
 Regional aspects are key to understand Antarctic sea ice dynamics. The Southern Ocean is comprised
@@ -119,24 +118,24 @@ by a storyline approach based on the use of a climate model.
 # Practical information and expected profile
 
 **We offer**:
-- full-time four-year PhD grants, starting from October 1st, 2024, or later
-- a net salary of around 2400 €/month (including social insurance and transportation to / from
+* full-time four-year PhD grants, starting from October 1st, 2024, or later
+* a net salary of around 2400 €/month (including social insurance and transportation to / from
 work)
-- an international and multidisciplinary working environment
-- travel opportunities for attending scientific conferences and doing research visits
-- access to a high-performance scientific computing environment
-- opportunities to gather experience in teaching and consultancy
+* an international and multidisciplinary working environment
+* travel opportunities for attending scientific conferences and doing research visits
+* access to a high-performance scientific computing environment
+* opportunities to gather experience in teaching and consultancy
   
 The values underlying the staff policy at UCLouvain are described (here)[https://uclouvain.be/en/careers/politique-personnel.html].
 
 **Expected profile**: you are holding a master degree (120 ECTS) in statistics, mathematics, physics,
 climatology, earth sciences, engineering, or a similar domain. Your skills and interests include:
 
--statistical modelling
--programming skills in, for instance, R and/or Python
--fluency in English, spoken and written
--autonomy, a sense of initiative and proactivity
--experience with extreme-value theory and/or the analysis of climate data is a plus
+* statistical modelling
+* programming skills in, for instance, R and/or Python
+* fluency in English, spoken and written
+* autonomy, a sense of initiative and proactivity
+* experience with extreme-value theory and/or the analysis of climate data is a plus
 
 **How to apply**: please mail your CV, motivation letter, names and contact details of at least two reference
 persons, and a list of your master courses and grades to [Anna Kiriliouk](mailto:anna.kiriliouk@unamur.be)
