@@ -131,5 +131,5 @@ climatology, earth sciences, engineering, or a similar domain. Your skills and i
 
 **How to apply**: please mail your CV, motivation letter, names and contact details of at least two reference
 persons, and a list of your master courses and grades to [Anna Kiriliouk](mailto:anna.kiriliouk@unamur.be)
-with subject “EXALT PhD application” at your earliest convenience. You can apply to a specific position,
+with subject “EXALT PhD application”. The deadline for applications is **May 27th**, with ideal start of the Phd in October 2024.  You can apply to a specific position,
 or to all of them at once.
