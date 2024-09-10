@@ -16,7 +16,7 @@ of Namur (NaXys, UNamur). Her main research field is extreme value theory, with 
 
 <img src="/assets/img/pics/FrancescoRagone.png" height = "200px">
 
-[**Francesco Ragone**](https://uclouvain.be/en/directories/francesco.ragone) is assistant professor at the *Earth and Climate Centre* of the Université catholique de Louvain (UCLouvain) and  senior researcher at the Royal Meteorological Institute (RMI) of Belgium. My research interests focus on
+[**Francesco Ragone**](https://uclouvain.be/en/directories/francesco.ragone) (coordinator UCLouvain) is assistant professor at the *Earth and Climate Centre* of the Université catholique de Louvain (UCLouvain) and  senior researcher at the Royal Meteorological Institute (RMI) of Belgium. My research interests focus on
 the application of techniques from statistical physics and dynamical systems theory to the study of
 climate problems.
 
@@ -27,7 +27,7 @@ climate problems.
 
 <img src="/assets/img/pics/JohanSegers.png" height = "200px">
 
-[**Johan Segers**](https://perso.uclouvain.be/johan.segers/index.html) (coordinator) is professor at the *Institut de statistique, biostatistique et sciences actuarielles* of the Université catholique de Louvain (UCLouvain). His research is anchored in mathematical statistics and applied probability. His main research themes
+[**Johan Segers**](https://perso.uclouvain.be/johan.segers/index.html) is professor at the *Institut de statistique, biostatistique et sciences actuarielles* of the Université catholique de Louvain (UCLouvain). His research is anchored in mathematical statistics and applied probability. His main research themes
 are extreme value analysis, dependence modelling, optimal transport, and Monte Carlo integration.
 
 # Researchers
